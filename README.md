@@ -1,5 +1,6 @@
 <div align="center">
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=timeGradient&section=header&reversal=false&text=ANURAG+PANDA&textBg=false&fontSize=70&fontAlign=50&fontAlignY=50&animation=fadeIn&rotate=0&strokeWidth=0&desc=Building+systems+%E2%80%A2+AI+%E2%80%A2+Web+%E2%80%A2+Hardware&descSize=20&descAlign=50&descAlignY=60"  />
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&center=true&multiline=true&width=435&height=70&lines=Building+meaningful+systems;One+commit+at+a+time." alt="Typing SVG" /></a>
 </div>
 
 ###
@@ -16,7 +17,46 @@
 
 ###
 
-<p align="left">🔭 I am currently working on React Native and Python<br>🧑‍🤝‍🧑 I am looking to colaborate on Python<br>⚡ Fun Fact I am 6'6" in height</p>
+<p align="left">I'm Anurag Panda, a Computer Science student and developer
+interested in building products across software, AI, and hardware.
+
+I enjoy turning ideas into complete systems — from interfaces
+and APIs to embedded firmware and intelligent applications.
+
+Currently exploring:
+- Artificial Intelligence
+- Full-stack engineering
+- Developer tooling
+- Embedded systems
+- Neurotechnology</p>
+
+###
+
+## Currently Building
+
+<table>
+<tr>
+<td width="50%">
+
+### 🧠 LUMYN
+
+AI-powered neuroscience wearable.
+
+`EEG` `BLE` `Embedded` `AI` `FastAPI`
+
+</td>
+
+<td width="50%">
+
+### ⚡ SlashForge
+
+Developer tooling / platform project.
+
+`TypeScript` `React` `Node.js` `PostgreSQL`
+
+</td>
+</tr>
+</table>
 
 ###
 
@@ -257,11 +297,9 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anurag-panda-dev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anurag-panda-dev&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=anurag-panda-dev&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anurag-panda-dev&radius=16&theme=dracula&area=true&order=5&hide_border=false&hide_title=false" height="300" alt="activity-graph graph"  />
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=anurag-panda-dev&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly&background=45%2CFFDACC%2CC4EBB2&stroke=04A3EB&ring=EB551B&fire=EB0300" alt="GitHub Streak" /></a>
 </div>
+
 
 ###
 
@@ -273,21 +311,21 @@
 
 <br clear="both">
 
-<picture>
+<!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anurag-panda-dev/anurag-panda-dev/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anurag-panda-dev/anurag-panda-dev/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/anurag-panda-dev/anurag-panda-dev/output/pacman-contribution-graph.svg">
-</picture>
+</picture> -->
 
 ###
 
 <br clear="both">
 
-<div align="center">
+<!-- <div align="center">
   <a href="https://open.spotify.com/user/314zgadsgncvnovkqylmyl3vsijy">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=314zgadsgncvnovkqylmyl3vsijy&count=5&unique=true" alt="Spotify recently played"  />
   </a>
-</div>
+</div> -->
 
 ###
 
