@@ -1,5 +1,5 @@
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&reversal=false&text=Anurag%20Panda&fontSize=50&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=13&descAlign=50&descAlignY=25&textBg=false&color=gradient"  />
+<div align="center">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=timeGradient&section=header&reversal=false&text=ANURAG+PANDA&textBg=false&fontSize=70&fontAlign=50&fontAlignY=50&animation=fadeIn&rotate=0&strokeWidth=0&desc=Building+systems+%E2%80%A2+AI+%E2%80%A2+Web+%E2%80%A2+Hardware&descSize=20&descAlign=50&descAlignY=60"  />
 </div>
 
 ###
