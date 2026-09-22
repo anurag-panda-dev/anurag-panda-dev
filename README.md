@@ -4,7 +4,7 @@
 
 <br clear="both">
 
-<h1 align="center">Hi 👋! My name is Anurag Panda and I'm a CSE Student, from Durgapur India</h1>
+<h1 align="center">Hi 👋! My name is Anurag Panda and I'm an Engineer & Researcher, from Durgapur India</h1>
 
 
 <p align="center">
