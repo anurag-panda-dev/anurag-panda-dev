@@ -8,14 +8,14 @@
 
 
 <p align="center">
-  <a href="https://linkedin.com/in/anurag-panda-"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:anurag.panda.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://t.me/anuragpandadev"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
-  <a href="https://discord.com/users/anuragpanda.dev"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://www.hackerrank.com/profile/anuragpanda_dev"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank" /></a>
-  <a href="https://codepen.io/Anurag-Panda-the-looper"><img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen" /></a>
-  <a href="https://instagram.com/anur.panda"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="https://music.youtube.com/playlist?list=PLIOOd6bOz-cp-f1eD1u5Hol4e9xISkfPa&si=ysExX2F5yQ0ho8Hm"><img src="https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtubemusic&logoColor=white" alt="YouTube Music" /></a>
+  <a href="https://linkedin.com/in/anurag-panda-" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:anurag.panda.dev@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://t.me/anuragpandadev" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
+  <a href="https://discord.com/users/anuragpanda.dev" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://www.hackerrank.com/profile/anuragpanda_dev" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank" /></a>
+  <a href="https://codepen.io/Anurag-Panda-the-looper" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen" /></a>
+  <a href="https://instagram.com/anur.panda" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://music.youtube.com/playlist?list=PLIOOd6bOz-cp-f1eD1u5Hol4e9xISkfPa&si=ysExX2F5yQ0ho8Hm" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtubemusic&logoColor=white" alt="YouTube Music" /></a>
 </p>
 
 ---
@@ -42,7 +42,7 @@
         <li>📍 <b>Location:</b> Durgapur, West Bengal, India</li>
         <li>💼 <b>Status:</b> Open for collaborative engineering & high-impact projects</li>
         <li>⚡ <b>Core Philosophy:</b> Ship clean, modular code with robust architectures</li>
-        <li>📫 <b>Direct Inbox:</b> <a href="mailto:anurag.panda.dev@gmail.com">anurag.panda.dev@gmail.com</a></li>
+        <li>📫 <b>Direct Inbox:</b> <a href="mailto:anurag.panda.dev@gmail.com" target="_blank" rel="noopener noreferrer">anurag.panda.dev@gmail.com</a></li>
       </ul>
     </td>
   </tr>
@@ -107,7 +107,7 @@
       <div align="center">
         <h4>📚 Access Publication</h4>
         <p>
-          <a href="https://philosophy.anuragpanda.in">
+          <a href="https://philosophy.anuragpanda.in" target="_blank" rel="noopener noreferrer">
             <img src="https://img.shields.io/badge/Read_Online-philosophy.anuragpanda.in-3884FF?style=for-the-badge&logo=gitbook&logoColor=white" alt="Read Online" />
           </a>
         </p>
@@ -151,11 +151,20 @@
         <img src="https://img.shields.io/badge/Specialization-Behavioral_Intelligence-6366F1?style=for-the-badge" alt="Behavioral Intelligence" />
         <img src="https://img.shields.io/badge/Discipline-Investigative_Profiling-EC4899?style=for-the-badge" alt="Investigative Profiling" />
         <img src="https://img.shields.io/badge/Domain-Cyberpsychology-8B5CF6?style=for-the-badge" alt="Cyberpsychology" />
-        <img src="https://img.shields.io/badge/System-Self--Governed-10B981?style=for-the-badge" alt="Self-Governed" />
       </p>
-      <blockquote>
-        <code>Psychopath / Misanthropist / Nihilist / Pseudonecrophiliac / Atheist / Narcissist. No gods, no morality, purely self-governed.</code>
-      </blockquote>
+      <p>
+        <img src="https://img.shields.io/badge/Psychopath-DC2626?style=for-the-badge" alt="Psychopath" />
+        <img src="https://img.shields.io/badge/Misanthropist-7C3AED?style=for-the-badge" alt="Misanthropist" />
+        <img src="https://img.shields.io/badge/Nihilist-475569?style=for-the-badge" alt="Nihilist" />
+        <img src="https://img.shields.io/badge/Pseudonecrophiliac-581C87?style=for-the-badge" alt="Pseudonecrophiliac" />
+        <img src="https://img.shields.io/badge/Atheist-2563EB?style=for-the-badge" alt="Atheist" />
+        <img src="https://img.shields.io/badge/Narcissist-D97706?style=for-the-badge" alt="Narcissist" />
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/No_Gods-0F172A?style=for-the-badge" alt="No Gods" />
+        <img src="https://img.shields.io/badge/No_Morality-0F172A?style=for-the-badge" alt="No Morality" />
+        <img src="https://img.shields.io/badge/Purely_Self--Governed-10B981?style=for-the-badge" alt="Purely Self-Governed" />
+      </p>
     </td>
   </tr>
 </table>
@@ -249,12 +258,12 @@
 <table border="0" width="100%">
   <tr>
     <td width="50%">
-      <a href="https://github.com/anurag-panda-dev">
+      <a href="https://github.com/anurag-panda-dev" target="_blank" rel="noopener noreferrer">
         <img src="https://github-stats-extended.vercel.app/api?username=anurag-panda-dev&rank_icon=github&show_icons=true&include_all_commits=true&theme=light_github" alt="Anurag's GitHub Stats" width="100%" />
       </a>
     </td>
     <td width="50%">
-      <a href="https://github.com/anurag-panda-dev">
+      <a href="https://github.com/anurag-panda-dev" target="_blank" rel="noopener noreferrer">
         <img src="https://github-stats-extended.vercel.app/api/top-langs?username=anurag-panda-dev&layout=compact&langs_count=20&theme=light_github" alt="Top Languages" width="100%" />
       </a>
     </td>
@@ -263,7 +272,7 @@
 
 <!-- Streak Stats Card -->
 <p>
-  <a href="https://github.com/anurag-panda-dev">
+  <a href="https://github.com/anurag-panda-dev" target="_blank" rel="noopener noreferrer">
     <img src="https://streak-stats.demolab.com?user=anurag-panda-dev&theme=tokyonight&hide_border=true&background=0D1117&border=1E293B&stroke=60A5FA&ring=F472B6&fire=FB923C&currStreakNum=60A5FA&sideNums=E2E8F0&sideLabels=94A3B8&dates=94A3B8" alt="GitHub Streak" width="100%" />
   </a>
 </p>
@@ -279,27 +288,27 @@
 
 <p align="center">
 
-  <a href="https://github.com/anurag-panda-dev?tab=repositories">
+  <a href="https://github.com/anurag-panda-dev?tab=repositories" target="_blank" rel="noopener noreferrer">
     <img
       src="https://img.shields.io/github/stars/anurag-panda-dev?style=for-the-badge&logo=github&label=STARS&color=60A5FA&labelColor=0D1117"
       alt="GitHub stars"
     />
   </a>
 
-  <a href="https://github.com/anurag-panda-dev?tab=repositories">
+  <a href="https://github.com/anurag-panda-dev?tab=repositories" target="_blank" rel="noopener noreferrer">
     <img
       src="https://img.shields.io/github/followers/anurag-panda-dev?style=for-the-badge&logo=github&label=FOLLOWERS&color=A78BFA&labelColor=0D1117"
       alt="GitHub followers"
     />
   </a>
 
-  <a href="https://github.com/anurag-panda-dev?tab=stars">
+  <a href="https://github.com/anurag-panda-dev?tab=stars" target="_blank" rel="noopener noreferrer">
     <img
       src="https://img.shields.io/github/stars/anurag-panda-dev?style=for-the-badge&logo=github&label=STARRED&color=F472B6&labelColor=0D1117"
       alt="Starred repositories"
     />
   </a>
-  <!-- <a href="https://github.com/anurag-panda-dev?tab=stars">
+  <!-- <a href="https://github.com/anurag-panda-dev?tab=stars" target="_blank" rel="noopener noreferrer">
     <img src="https://komarev.com/ghpvc/?username=anurag-panda-dev&style=for-the-badge&color=60A5FA&labelColor=0D1117&label=PROFILE+VIEWS" alt="Profile Views" />
   </a> -->
 </p>
@@ -317,53 +326,53 @@
       <p><i>Click any cell to jump in & play:</i></p>
       <table>
         <tr>
-          <td align="center"><a href="https://playtictactoe.org/"><img src="https://img.shields.io/badge/00-❌-0D1117?style=for-the-badge&labelColor=1E293B" alt="00" /></a></td>
-          <td align="center"><a href="https://playtictactoe.org/"><img src="https://img.shields.io/badge/01-⭕-0D1117?style=for-the-badge&labelColor=1E293B" alt="01" /></a></td>
-          <td align="center"><a href="https://playtictactoe.org/"><img src="https://img.shields.io/badge/02-⚡-0D1117?style=for-the-badge&labelColor=1E293B" alt="02" /></a></td>
+          <td align="center"><a href="https://playtictactoe.org/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/00-❌-0D1117?style=for-the-badge&labelColor=1E293B" alt="00" /></a></td>
+          <td align="center"><a href="https://playtictactoe.org/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/01-⭕-0D1117?style=for-the-badge&labelColor=1E293B" alt="01" /></a></td>
+          <td align="center"><a href="https://playtictactoe.org/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/02-⚡-0D1117?style=for-the-badge&labelColor=1E293B" alt="02" /></a></td>
         </tr>
         <tr>
-          <td align="center"><a href="https://playtictactoe.org/"><img src="https://img.shields.io/badge/10-⭕-0D1117?style=for-the-badge&labelColor=1E293B" alt="10" /></a></td>
-          <td align="center"><a href="https://playtictactoe.org/"><img src="https://img.shields.io/badge/11-❌-0D1117?style=for-the-badge&labelColor=1E293B" alt="11" /></a></td>
-          <td align="center"><a href="https://playtictactoe.org/"><img src="https://img.shields.io/badge/12-⚡-0D1117?style=for-the-badge&labelColor=1E293B" alt="12" /></a></td>
+          <td align="center"><a href="https://playtictactoe.org/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/10-⭕-0D1117?style=for-the-badge&labelColor=1E293B" alt="10" /></a></td>
+          <td align="center"><a href="https://playtictactoe.org/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/11-❌-0D1117?style=for-the-badge&labelColor=1E293B" alt="11" /></a></td>
+          <td align="center"><a href="https://playtictactoe.org/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/12-⚡-0D1117?style=for-the-badge&labelColor=1E293B" alt="12" /></a></td>
         </tr>
         <tr>
-          <td align="center"><a href="https://playtictactoe.org/"><img src="https://img.shields.io/badge/20-⚡-0D1117?style=for-the-badge&labelColor=1E293B" alt="20" /></a></td>
-          <td align="center"><a href="https://playtictactoe.org/"><img src="https://img.shields.io/badge/21-⚡-0D1117?style=for-the-badge&labelColor=1E293B" alt="21" /></a></td>
-          <td align="center"><a href="https://playtictactoe.org/"><img src="https://img.shields.io/badge/22-❌-0D1117?style=for-the-badge&labelColor=1E293B" alt="22" /></a></td>
+          <td align="center"><a href="https://playtictactoe.org/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/20-⚡-0D1117?style=for-the-badge&labelColor=1E293B" alt="20" /></a></td>
+          <td align="center"><a href="https://playtictactoe.org/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/21-⚡-0D1117?style=for-the-badge&labelColor=1E293B" alt="21" /></a></td>
+          <td align="center"><a href="https://playtictactoe.org/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/22-❌-0D1117?style=for-the-badge&labelColor=1E293B" alt="22" /></a></td>
         </tr>
       </table>
-      <p><a href="https://playtictactoe.org/">🎮 <b>Launch Tic-Tac-Toe Live</b></a></p>
+      <p><a href="https://playtictactoe.org/" target="_blank" rel="noopener noreferrer">🎮 <b>Launch Tic-Tac-Toe Live</b></a></p>
     </td>
     <td width="62%" valign="top">
       <h3>👾 Instant Play Minigames</h3>
       <p><i>Instant browser-playable retro classics (no download or sign-in required):</i></p>
       <p>
-        <a href="https://playsnake.org/">
+        <a href="https://playsnake.org/" target="_blank" rel="noopener noreferrer">
           <img src="https://img.shields.io/badge/Play_Snake-10B981?style=for-the-badge&logo=python&logoColor=white" alt="Play Snake" />
         </a>
-        <a href="https://play2048.co/">
+        <a href="https://play2048.co/" target="_blank" rel="noopener noreferrer">
           <img src="https://img.shields.io/badge/Play_2048-EDC22E?style=for-the-badge&logo=target&logoColor=black" alt="Play 2048" />
         </a>
-        <a href="https://tetris.com/play-tetris">
+        <a href="https://tetris.com/play-tetris" target="_blank" rel="noopener noreferrer">
           <img src="https://img.shields.io/badge/Play_Tetris-00599C?style=for-the-badge&logo=steam&logoColor=white" alt="Play Tetris" />
         </a>
       </p>
       <p>
-        <a href="https://freeinvaders.org/">
+        <a href="https://freeinvaders.org/" target="_blank" rel="noopener noreferrer">
           <img src="https://img.shields.io/badge/Space_Invaders-E11D48?style=for-the-badge&logo=ghost&logoColor=white" alt="Play Space Invaders" />
         </a>
-        <a href="https://minesweeper.online/">
+        <a href="https://minesweeper.online/" target="_blank" rel="noopener noreferrer">
           <img src="https://img.shields.io/badge/Minesweeper-8B5CF6?style=for-the-badge&logo=windows&logoColor=white" alt="Play Minesweeper" />
         </a>
-        <a href="https://elgoog.im/t-rex/">
+        <a href="https://elgoog.im/t-rex/" target="_blank" rel="noopener noreferrer">
           <img src="https://img.shields.io/badge/Chrome_Dino-64748B?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Play Chrome Dino" />
         </a>
       </p>
       <p>
-        <a href="https://lichess.org/">
+        <a href="https://lichess.org/" target="_blank" rel="noopener noreferrer">
           <img src="https://img.shields.io/badge/Play_Chess-3884FF?style=for-the-badge&logo=lichess&logoColor=white" alt="Play Chess" />
         </a>
-        <a href="https://pacman.live/">
+        <a href="https://pacman.live/" target="_blank" rel="noopener noreferrer">
           <img src="https://img.shields.io/badge/Pac--Man-FCD34D?style=for-the-badge&logo=ghost&logoColor=black" alt="Play Pacman" />
         </a>
       </p>
@@ -417,19 +426,19 @@
 > *Have a project idea, research proposal, or philosophical question? Trigger an instant transmission with pre-structured templates:*
 
 <p>
-  <a href="https://github.com/anurag-panda-dev/anurag-panda-dev/issues/new?title=%F0%9F%92%A1+Collaboration+Proposal&body=%23%23%23+1.+Proposal+Overview%0A%0A**Domain%3A**+%5BNeurotech+%2F+AI+%2F+Systems+%2F+Philosophy%5D%0A%0A%23%23%23+2.+Description%0A%0A%23%23%23+3.+Target+Outcome+%26+Timeline%0A%0A">
+  <a href="https://github.com/anurag-panda-dev/anurag-panda-dev/issues/new?title=%F0%9F%92%A1+Collaboration+Proposal&body=%23%23%23+1.+Proposal+Overview%0A%0A**Domain%3A**+%5BNeurotech+%2F+AI+%2F+Systems+%2F+Philosophy%5D%0A%0A%23%23%23+2.+Description%0A%0A%23%23%23+3.+Target+Outcome+%26+Timeline%0A%0A" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/💡_Propose_Collaboration-6366F1?style=for-the-badge&logo=github&logoColor=white" alt="Propose Collaboration" />
   </a>
-  <a href="https://github.com/anurag-panda-dev/anurag-panda-dev/issues/new?title=%F0%9F%A7%A0+AMA+Inquiry&body=%23%23%23+Topic%0A%0A%23%23%23+My+Question%0A%0A">
+  <a href="https://github.com/anurag-panda-dev/anurag-panda-dev/issues/new?title=%F0%9F%A7%A0+AMA+Inquiry&body=%23%23%23+Topic%0A%0A%23%23%23+My+Question%0A%0A" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/🧠_Ask_Me_Anything_(AMA)-EC4899?style=for-the-badge&logo=github&logoColor=white" alt="Ask Me Anything" />
   </a>
-  <a href="https://github.com/anurag-panda-dev/anurag-panda-dev/issues/new?title=%E2%9A%A1+Project+Feedback+%26+Feature+Idea&body=%23%23%23+Project+Name%0A%0A%23%23%23+Feedback+%2F+Feature+Suggestion%0A%0A">
+  <a href="https://github.com/anurag-panda-dev/anurag-panda-dev/issues/new?title=%E2%9A%A1+Project+Feedback+%26+Feature+Idea&body=%23%23%23+Project+Name%0A%0A%23%23%23+Feedback+%2F+Feature+Suggestion%0A%0A" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/⚡_Feedback_%26_Ideas-3884FF?style=for-the-badge&logo=github&logoColor=white" alt="Project Feedback" />
   </a>
-  <a href="mailto:anurag.panda.dev@gmail.com?subject=Collaborative%20Inquiry%20via%20GitHub&body=Hi%20Anurag,%0A%0A">
+  <a href="mailto:anurag.panda.dev@gmail.com?subject=Collaborative%20Inquiry%20via%20GitHub&body=Hi%20Anurag,%0A%0A" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/📫_Direct_Mail_Transmission-10B981?style=for-the-badge&logo=gmail&logoColor=white" alt="Direct Email Dispatch" />
   </a>
-  <a href="https://music.youtube.com/playlist?list=PLIOOd6bOz-cp-f1eD1u5Hol4e9xISkfPa&si=ysExX2F5yQ0ho8Hm">
+  <a href="https://music.youtube.com/playlist?list=PLIOOd6bOz-cp-f1eD1u5Hol4e9xISkfPa&si=ysExX2F5yQ0ho8Hm" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/YouTube_Music-Current_Frequencies-FF0000?style=for-the-badge&logo=youtubemusic&logoColor=white" alt="YouTube Music" />
   </a>
 </p>
