@@ -1,5 +1,5 @@
 <div align="center">
-<img src="./assets/terminal-profile.png" width="100%" alt="Anurag Panda Terminal Profile" />
+<img src="https://raw.githubusercontent.com/anurag-panda-dev/anurag-panda-dev/main/assets/terminal-profile.png" width="100%" alt="Anurag Panda Terminal Profile" />
 </div>
 
 <br clear="both">
