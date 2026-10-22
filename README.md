@@ -70,10 +70,11 @@
     </td>
     <td width="50%" valign="top">
       <div align="center">
-      <h3>⚡ SlashForge</h3>
+      <h3>⚡ <a href="https://slashforge.space/">SlashForge</a></h3>
       <p><b>Developer Workspace & Workflow Tooling</b></p>
       </div>
       <p>A modular platform built for modern engineers to streamline scaffolding, benchmark system components, and automate developer workflows with extensible plugins and high performance.</p>
+      <a href="https://slashforge.space/">Live Demo</a></p>
       <p>
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
