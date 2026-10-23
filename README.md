@@ -94,6 +94,15 @@
       <a href="https://milf-shiksha.vercel.app/">Live Demo</a></p>
       <p><img src="https://img.shields.io/badge/Next.js_14-000000?style=flat-square&logo=next.js&logoColor=white" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" /> <img src="https://img.shields.io/badge/PWA-5A0FC8?style=flat-square" /></p>
     </td>
+    <td width="50%" valign="top">
+      <div align="center">
+        <h3>📸 <a href="https://github.com/anurag-panda-dev/ig-harvester">ig-harvester</a></h3>
+        <p><b>Instagram OSINT & Data Extraction Toolkit</b></p>
+      </div>
+      <p>A Playwright-based intelligence harvester built to automate profile reconnaissance, post extraction, and follower-following network mapping, paired with a live local analysis dashboard for deep engagement, posting-pattern, and bio-intel insights.</p>
+      <p><a href="https://github.com/anurag-panda-dev/ig-harvester">View Repository</a> | <a href="https://anurag-panda-dev.github.io/ig-harvester/">Live Manual</a></p>
+      <p><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" /> <img src="https://img.shields.io/badge/OSINT-Security-blue?style=flat-square" /> <img src="https://img.shields.io/badge/Dashboard-Live-orange?style=flat-square" /> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/Automation-FF4500?style=flat-square&logo=robot&logoColor=white" /></p>
+    </td>
   </tr>
 </table>
 
