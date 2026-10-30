@@ -108,6 +108,64 @@
 
 ---
 
+## 🧩 Template Family | Self-Documenting Repos
+
+> *"Every folder explains itself — to humans **and** to AI agents."* Three public GitHub templates built on `purpose.txt` maps, lint-enforced import boundaries, and ADR/RFC decision discipline.
+
+<table>
+  <tr>
+    <td width="34%" valign="top">
+      <div align="center">
+      <h3>🧱 <a href="https://github.com/anurag-panda-dev/big-software-product-template">Big Software Product</a></h3>
+      <p><b>Ecosystem-first monorepo (software)</b></p>
+      </div>
+      <p>Large multi-product systems organized by <i>domain</i>, not by technical kind. <code>apps/ · categories/ · kernel/ · platform/ · datasets/ · content/</code></p>
+      <p>
+        <img src="https://img.shields.io/badge/268-purpose.txt%20maps-6366F1?style=flat-square" />
+        <img src="https://img.shields.io/badge/license-MIT-10B981?style=flat-square" />
+      </p>
+      <p>
+        <a href="https://github.com/anurag-panda-dev/big-software-product-template/generate"><img src="https://img.shields.io/badge/Use_this_template-→-0D1117?style=for-the-badge&labelColor=1E293B" /></a>
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <div align="center">
+      <h3>🔩 <a href="https://github.com/anurag-panda-dev/consumer-hardware-products-template">Consumer Hardware</a></h3>
+      <p><b>Discipline-first (physical products)</b></p>
+      </div>
+      <p>Hardware development split by engineering discipline. <code>products/ · mechanical/ · electronics/ · firmware/ · certification/ · manufacturing/</code></p>
+      <p>
+        <img src="https://img.shields.io/badge/100-purpose.txt%20maps-6366F1?style=flat-square" />
+        <img src="https://img.shields.io/badge/license-MIT-10B981?style=flat-square" />
+      </p>
+      <p>
+        <a href="https://github.com/anurag-panda-dev/consumer-hardware-products-template/generate"><img src="https://img.shields.io/badge/Use_this_template-→-0D1117?style=for-the-badge&labelColor=1E293B" /></a>
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <div align="center">
+      <h3>🔗 <a href="https://github.com/anurag-panda-dev/full-stack-consumer-hardware-products-template">Full-Stack Hardware</a></h3>
+      <p><b>Connected devices (HW + SW)</b></p>
+      </div>
+      <p>One repo, two worlds, explicit boundaries. The seam is <code>kernel/contracts</code>, which drives firmware schemas and the OTA manifest.</p>
+      <p>
+        <img src="https://img.shields.io/badge/193-purpose.txt%20maps-6366F1?style=flat-square" />
+        <img src="https://img.shields.io/badge/license-MIT-10B981?style=flat-square" />
+      </p>
+      <p>
+        <a href="https://github.com/anurag-panda-dev/full-stack-consumer-hardware-products-template/generate"><img src="https://img.shields.io/badge/Use_this_template-→-0D1117?style=for-the-badge&labelColor=1E293B" /></a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/family-3_templates-60A5FA?style=for-the-badge&labelColor=0D1117" alt="Template family" />
+  <a href="https://github.com/anurag-panda-dev?tab=repositories&q=template&type=&language=&sort="><img src="https://img.shields.io/badge/view_all-templates-A78BFA?style=for-the-badge&labelColor=0D1117" alt="All templates" /></a>
+</p>
+
+---
+
 ## 📖 Published Works & Research | The Conscious Horizon
 
 <table>
