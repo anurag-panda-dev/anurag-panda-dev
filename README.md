@@ -4,6 +4,18 @@
 
 <br clear="both">
 
+<div align="center">
+  <a href="https://www.16personalities.com/profiles/a2d4b4cf1fe5c">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/16p-card-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/16p-card-light.svg">
+    <img alt="Logician INTP-T 16Personalities Profile Card" src="./assets/16p-card-dark.svg">
+  </picture>
+</a>
+</div>
+
+<br clear="both">
+
 <h1 align="center">Hi 👋! My name is Anurag Panda and I'm an Engineer & Researcher, from Durgapur India</h1>
 
 
